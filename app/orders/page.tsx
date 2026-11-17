@@ -8,3 +8,4 @@ export default async function OrdersPage() {
 // Orders, newest first.
 // Paged by the API.
 // Cached for a minute.
+// Orders come from the API.
